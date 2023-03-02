@@ -1,0 +1,24 @@
+title: The Chocolate Seed Box
+author: Pablo Gómez Barreiro & David Coleshill
+email: pablogomezbr@hotmail.es
+description: >-
+  Tin chocolate boxes, more often than not, contain anything but chocolates.
+  Donated some time ago to the Millennium Seed Bank, this Pascall's Chocolates box once full of sweets, was used to store a collection of seeds in glass vials. 
+  On this website we explore its contents!
+  
+weare:  >- 
+  Photography & Edition: David Coleshill and Pablo Gómez Barreiro
+  
+social:
+  twitter: pagomba
+  github: pgomba
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
