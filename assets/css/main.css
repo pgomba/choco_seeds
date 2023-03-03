@@ -228,7 +228,7 @@ input, select, textarea {
 	}
 	
 	mark {
-  background-color: yellow;
+  background-color: hsla(360, 100%, 100%, .8);
   color: black;
   font-style: italic;
 }
