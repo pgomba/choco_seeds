@@ -16,9 +16,9 @@
             <img src="{{site.baseurl}}/assets/images/thumbs/{{ image.path | split: '/' | last | split: '.' | first }}.jpg" alt="{{ image.title }}" />
           </a>
           <h2>{{ image.title }}</h2>
-          <p><i>{{ image.species }}</i></p>
-          <p>{{ image.caption }}</p>
-        </article>
+          <p><i>{{ image.species }}</i>
+          {{ image.caption }}</p>
+          </article>
         {% endfor %}
 
         <!-- no idea where to put this... -->
