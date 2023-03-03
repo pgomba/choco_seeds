@@ -19,7 +19,7 @@
 
 		.thumb {
 			@include vendor('transition', (
-				'opacity 1.25s ease-in-out'
+				'opacity 0.25s ease-in-out'
 			));
 			@include vendor('pointer-events', 'auto');
 			-webkit-tap-highlight-color: rgba(255,255,255,0);
