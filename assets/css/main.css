@@ -207,6 +207,15 @@ input, select, textarea {
 
 		}
 
+	a {
+		-moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+		border-bottom: dotted 1px;
+		color: #34a58e;
+		text-decoration: none;
+	}
 
 		a:hover {
 			border-bottom-color: transparent;
@@ -219,7 +228,7 @@ input, select, textarea {
 	}
 	
 	mark {
-  background-color: hsla(360, 100%, 100%, .8);
+  background-color: hsla(360, 100%, 100%, .5);
   color: black;
   font-weight: 200;
   }
@@ -1630,10 +1639,6 @@ input, select, textarea {
 		}
 
 			#main .thumb:after {
-				background-image: -moz-linear-gradient(to top, rgba(10,17,25,0.35) 5%, rgba(10,17,25,0) 35%);
-				background-image: -webkit-linear-gradient(to top, rgba(10,17,25,0.35) 5%, rgba(10,17,25,0) 35%);
-				background-image: -ms-linear-gradient(to top, rgba(10,17,25,0.35) 5%, rgba(10,17,25,0) 35%);
-				background-image: linear-gradient(to top, rgba(10,17,25,0.35) 5%, rgba(10,17,25,0) 35%);
 				pointer-events: none;
 				background-size: cover;
 				content: '';
