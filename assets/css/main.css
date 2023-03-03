@@ -230,9 +230,8 @@ input, select, textarea {
 	mark {
   background-color: hsla(360, 100%, 100%, .8);
   color: black;
-  font-weight: bold;
-  font-style: italic;
-}
+  font-weight: 200;
+  }
 
 	em, i {
 		font-style: italic;
