@@ -1,5 +1,5 @@
 ---
 title: Hemp nettle
 species: Galeopsis tetrahit
-caption: Flower and fruits (nutlets)
+caption: Flowers and fruits (nutlets)
 ---
