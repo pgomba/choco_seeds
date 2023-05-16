@@ -1,4 +1,4 @@
-# Chocolate Seed Box repository 
+# Chocolate Tin Botanica repository 
 
 [![Build Status](https://travis-ci.com/joaomlneto/jekyll-multiverse-template.svg?branch=master)](https://travis-ci.com/joaomlneto/jekyll-multiverse-template)
 
