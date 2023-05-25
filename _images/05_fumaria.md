@@ -1,5 +1,5 @@
 ---
-title: Greater celandine  
-species: Chelidonium majus
-caption: Fruits and seeds
+title: Common fumitory  
+species: Fumaria officinalis
+caption: Seeds
 ---
