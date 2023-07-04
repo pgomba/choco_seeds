@@ -1,5 +1,5 @@
 ---
-title: Bluebell
-species: Hyacinthoides non-scripta
+title: Broomrape
+species: Orobranche spp.
 caption: Seeds
 ---
