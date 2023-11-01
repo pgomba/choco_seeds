@@ -21,6 +21,9 @@ social:
   twitter: pagomba
   github: pgomba
 
+thumbnail: "images/fulls/01_tin.jpg"  
+twitter_cards: true
+images: ["images/fulls/01_tin.jpg"]
 # Build settings
 markdown: kramdown
 plugins:
