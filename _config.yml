@@ -13,7 +13,13 @@ description: >-
   As these seeds are now captured through the lens of a camera, a digital tapestry begins to unfold into a virtual gallery where these botanical curiosities find their place in the spotlight.
   <br>
   Welcome to "Chocolate Tin Botanica"
-  
+website:
+  title: "Chocolate Tin Botanica"
+  site-url: https://pgomba.github.io/choco_seeds/index.html
+  open-graph: true
+  twitter-card:
+    creator: "@pagomba"
+    image: "images/fulls/01_tin.jpg"  
 weare:  >- 
   Photography & Edition: David Coleshill and Pablo Gómez Barreiro
   
